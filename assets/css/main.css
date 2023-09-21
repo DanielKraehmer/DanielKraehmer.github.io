@@ -3376,7 +3376,7 @@ input, select, textarea {
 	cursor: default;
 	height: 40vh;
 	max-height: 32em;
-	min-height: 10em;
+	min-height: 20em;
 	position: relative;
 
 	text-align: justify;
